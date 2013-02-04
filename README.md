@@ -1,4 +1,4 @@
 wkb_wrapper
 ===========
 
-Operation on data in WKB fjrmat
+Operation on data in WKB format
